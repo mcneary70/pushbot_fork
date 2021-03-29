@@ -1,0 +1,19 @@
+[
+  "hubot-diagnostics",
+  "hubot-help",
+  "hubot-google-images",
+  "hubot-google-translate",
+  "hubot-pugme-reddit",
+  "hubot-maps",
+  "hubot-rules",
+  "hubot-shipit",
+  "hubot-auth",
+  "hubot-fliptable",
+  "hubot-markov",
+  "hubot-hammersport",
+  "hubot-pipe",
+  "hubot-pipe-scripts",
+  "hubot-plan",
+  "hubot-swanson",
+  "hubot-roller"
+]

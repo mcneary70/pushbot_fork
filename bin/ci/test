@@ -1,0 +1,10 @@
+#!/bin/bash
+
+set -euo pipefail
+source bin/common/all.sh
+
+printf "Waiting for PostgreSQL to become available.\n"
+wait_for_postgres
+
+printf "Running npm tests.\n"
+npm test
