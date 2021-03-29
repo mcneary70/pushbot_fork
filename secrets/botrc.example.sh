@@ -45,4 +45,4 @@ export WEB_BASE_URL=
 export AZ_COORDINATOR_TOKEN
 
 # debugging
-# export HUBOT_LOG_LEVEL=debug
+export HUBOT_LOG_LEVEL=debug

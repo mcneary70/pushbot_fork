@@ -42,4 +42,4 @@ $env:WEB_BASE_URL = ''
 $env:AZ_COORDINATOR_TOKEN = ''
 
 # Debugging
-# $env:HUBOT_LOG_LEVEL = 'debug'
+$env:HUBOT_LOG_LEVEL = 'debug'
